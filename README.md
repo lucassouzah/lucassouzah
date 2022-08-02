@@ -2,10 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Lucas+Souza+Luciano;tenho+20+anos+;Sou+de+Curitiba,+PR;estudo+desenvolvimento+de+sistemas+Uniandrade;Sejá+Bem+Vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/lucassouzah">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucassouzah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassouzah&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucassouzah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassouzah&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
   ---------------------------------------------------------------------------------------------------------------------------------
