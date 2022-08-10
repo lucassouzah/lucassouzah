@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Future Developer :) &fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Lucas+Souza+Luciano;tenho+20+anos+;Sou+de+Curitiba,+PR;estudo+desenvolvimento+de+sistemas+Uniandrade;Sejá+Bem+Vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Lucas+Souza+Luciano;tenho+20+anos+;Sou+de+Curitiba,+PR;estudo+desenvolvimento+de+sistemas+,Uniandrade;Sejá+Bem+Vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/lucassouzah">
