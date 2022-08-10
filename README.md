@@ -47,7 +47,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
-![Android Studio](https://img.shields.io/badge/-AndroidStudio-0D1117?style=for-the-badge&logo=Android_Studio&labelColor=0D1117)&nbsp;
+![androidstudio](https://img.shields.io/badge/-Android-Studio-0D1117?style=for-the-badge&logo=Android-Studio&labelColor=0D1117)&nbsp;
 
 
 ### Other Knowledge:
