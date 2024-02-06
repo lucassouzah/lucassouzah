@@ -1,8 +1,11 @@
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=wave&color=00bfbf&height=130&&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfrf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem+Vindo+ao+meu+Perfil;Meu+nome+é+Lucas+Souza+Luciano;tenho+21+anos+;Sou+de+Curitiba,+PR;estudo+desenvolvimento+de+sistemas+,Uniandrade;Sejá+Bem+Vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
+
 <div align="center">
    <img src="https://github.com/lucassouzah/lucassouzah/assets/110421537/4a3865c4-ef77-4a85-983f-5f3cb6bf676b">
 </div>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfrf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem+Vindo+ao+meu+Perfil;Meu+nome+é+Lucas+Souza+Luciano;tenho+21+anos+;Sou+de+Curitiba,+PR;estudo+desenvolvimento+de+sistemas+,Uniandrade;Sejá+Bem+Vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/lucassouzah">
