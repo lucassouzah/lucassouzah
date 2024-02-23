@@ -7,8 +7,6 @@
   	<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassouzah&layout=compact&langs_count=7&theme=algolia"/>
 </div>
   
-  ---------------------------------------------------------------------------------------------------------------------------------
-
 <div align="center">
   
   <img align="center" alt="Lucas-HTML" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -19,6 +17,7 @@
   <img align="center" alt="Lucas-React" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  
 </div>
+  ---------------------------------------------------------------------------------------------------------------------------------
 <div align="center">
    <img src="https://github.com/lucassouzah/lucassouzah/assets/110421537/4a3865c4-ef77-4a85-983f-5f3cb6bf676b">
 </div>
