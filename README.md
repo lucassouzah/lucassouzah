@@ -2,10 +2,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfrf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem+Vindo+ao+meu+Perfil;Meu+nome+é+Lucas+Souza+Luciano;tenho+21+anos+;Sou+de+Curitiba,+PR;estudo+desenvolvimento+de+sistemas+,Uniandrade;Sejá+Bem+Vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-   <img src="https://github.com/lucassouzah/lucassouzah/assets/110421537/4a3865c4-ef77-4a85-983f-5f3cb6bf676b">
-</div>
-
-<div align="center">
   <a href="https://github.com/lucassouzah">
   	<img height="150em" src="https://github-readme-stats.vercel.app/api?username=lucassouzah&theme=algolia"alt="lucassouzah Github Stats">
   	<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassouzah&layout=compact&langs_count=7&theme=algolia"/>
@@ -27,6 +23,9 @@
 
 <div align="center">
 <img src="https://github.com/lucassouzah/lucassouzah/assets/110421537/39ec14a5-5a5e-4125-a7a0-cd14e51804af" width="200px" />
+</div>
+<div align="center">
+   <img src="https://github.com/lucassouzah/lucassouzah/assets/110421537/4a3865c4-ef77-4a85-983f-5f3cb6bf676b">
 </div>
 
 <div align="center"> 
