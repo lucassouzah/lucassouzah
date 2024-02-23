@@ -19,17 +19,12 @@
   <img align="center" alt="Lucas-React" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  
 </div>
-
-
-<div align="center">
-<img src="https://github.com/lucassouzah/lucassouzah/assets/110421537/39ec14a5-5a5e-4125-a7a0-cd14e51804af" width="200px" />
-</div>
 <div align="center">
    <img src="https://github.com/lucassouzah/lucassouzah/assets/110421537/4a3865c4-ef77-4a85-983f-5f3cb6bf676b">
 </div>
 
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/lucas-souza-luciano-14303b206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/lucas-souza-luciano-14303b206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="50" width="160" ></a> 
  
 </div>
 
