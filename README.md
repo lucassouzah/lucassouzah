@@ -19,7 +19,7 @@
 </div>
   ---------------------------------------------------------------------------------------------------------------------------------
 <div align="center">
-   <img src="https://github.com/lucassouzah/lucassouzah/assets/110421537/4a3865c4-ef77-4a85-983f-5f3cb6bf676b">
+   <img src="https://github.com/lucassouzah/lucassouzah/issues/1#issue-2104401193">
 </div>
 
 <div align="center"> 
