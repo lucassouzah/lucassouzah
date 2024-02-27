@@ -23,7 +23,7 @@
 </div>
 
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/lucas-souza-luciano-14303b206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="50" width="160" ></a> 
+  <a href="https://www.linkedin.com/in/lucas-souza-luciano-14303b206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="40" width="120" ></a> 
  
 </div>
 
