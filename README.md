@@ -17,7 +17,10 @@
   <img align="center" alt="Lucas-React" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  
 </div>
-  
+<div align="center"> 
+<img src="https://private-user-images.githubusercontent.com/110421537/300301801-39ec14a5-5a5e-4125-a7a0-cd14e51804af.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDkxNjgyNTQsIm5iZiI6MTcwOTE2Nzk1NCwicGF0aCI6Ii8xMTA0MjE1MzcvMzAwMzAxODAxLTM5ZWMxNGE1LTVhNWUtNDEyNS1hN2EwLWNkMTRlNTE4MDRhZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIyOVQwMDUyMzRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00ZGY5ZjI3YTlmZWY0OWFjNzA0OWIxOWExMTVmMGQxMzIzNTViOTViNTdhNTBkYTRiZDkwNzJmZjQwNmI5OWIyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.ONueo8l0UaRvMhSpkTOrpjTKXgf7u-o_HCmC_ZamNWo">
+</div>
+
 <div align="center"> 
   <a href="https://www.linkedin.com/in/lucas-souza-luciano-14303b206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="40" width="120" ></a> 
  
