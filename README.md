@@ -20,7 +20,7 @@
 </div>
 
 <div align="center"> 
- <img src="https://github.com/lucassouzah/lucassouzah/assets/110421537/36bcfc48-a5d8-45af-bf13-18c9f1d44769" height="300" width="300" > 
+ <img src="https://github.com/lucassouzah/lucassouzah/assets/110421537/36bcfc48-a5d8-45af-bf13-18c9f1d44769" height="320" width="320" > 
 </div>
 
 <div align="center"> 
