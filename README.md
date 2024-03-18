@@ -9,6 +9,7 @@
   
 <div align="center">
 
+-------------------------------------------------------------------------------------------------------------------------------
   
   <img align="center" alt="Lucas-HTML" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -28,6 +29,7 @@
  
 </div>
 
+-----------------------------------------------------------------------------------------------------------------------------------
 
 ### Habilidades:
 ![Html](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=1572B6&labelColor=0D1117)&nbsp;
