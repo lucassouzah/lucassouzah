@@ -1,3 +1,4 @@
+-------------------------------------------------------------------------------------------------------------------------------
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfrf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem+Vindo+ao+meu+Perfil;Meu+nome+é+Lucas+Souza+Luciano;tenho+21+anos+;Sou+de+Curitiba,+PR;estudo+desenvolvimento+de+sistemas+,Uniandrade;Sejá+Bem+Vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
