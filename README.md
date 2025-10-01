@@ -1,6 +1,6 @@
 -------------------------------------------------------------------------------------------------------------------------------
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfrf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem+Vindo+ao+meu+Perfil;Meu+nome+é+Lucas+Souza+Luciano;tenho+21+anos+;Sou+de+Curitiba,+PR;estudo+desenvolvimento+de+sistemas+,Uniandrade;Sejá+Bem+Vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfrf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem+Vindo+ao+meu+Perfil;Meu+nome+é+Lucas+Souza+Luciano;tenho+23+anos+;Sou+de+Curitiba,+PR;estudo+desenvolvimento+de+sistemas+,Uniandrade;Sejá+Bem+Vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/lucassouzah">
@@ -13,7 +13,7 @@
 -------------------------------------------------------------------------------------------------------------------------------
   
   <img align="center" alt="Lucas-HTML" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lucas-CSS" height="70" width="50" 
+  <img align="center" alt="Lucas-CSS" height="70" width="50">
   <img align="center" alt="Lucas-Js" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-Python" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  
