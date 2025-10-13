@@ -1,5 +1,4 @@
--------------------------------------------------------------------------------------------------------------------------------
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfrf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Seja+Bem+Vindo+ao+meu+Perfil:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Audiowide&size=35&pause=1000&center=true&width=1000&lines=Olá,+Seja+Bem+Vindo+ao+meu+Perfil)](https://git.io/typing-svg)
 
 <div align="center"> 
   <img src="https://github.com/lucassouzah/lucassouzah/assets/110421537/36bcfc48-a5d8-45af-bf13-18c9f1d44769" height="250" width="250" > 
