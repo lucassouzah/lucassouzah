@@ -10,11 +10,11 @@
  </div>
 
 -------------------------------------------------------------------------------------------------------------------------------
- Lucas Souza Luciano
+Lucas Souza Luciano
 
 **`👨🏻‍💻Desenvolvedor Front-End / Analista de dados`**
 
-Me chamo Lucas, tenho 23 anos sou natural de Curitiba/PR. Concluí o ensino médio com o curso técnico em informática. Recentemente terminei minha faculdade (Análise e Desenvolvimento de Sistemas). Possuo também conhecimentos em edição de video e fotos, atuamente estou estudando para area de Analista de dados buscando as certificações Microsoft PL-300 e AWS.
+Me chamo Lucas, tenho 23 anos sou natural de Curitiba/PR. Concluí o ensino médio com o curso técnico em informática. Recentemente terminei minha faculdade (Análise e Desenvolvimento de Sistemas). Possuo também conhecimentos em edição de video, designer em geral atuamente estou estudando para area de Analista de dados buscando as certificações AWS e Microsoft PL-300.
 
 
 ### 🤖 Linguagens e Tecnologias
